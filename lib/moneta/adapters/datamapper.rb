@@ -1,7 +1,7 @@
 begin
-  gem "dm-core", "~> 1.0.0"
-  gem "dm-migrations", "~> 1.0.0"
-  gem "dm-sqlite-adapter", "~> 1.0.0"
+  gem "dm-core", "~> 1.1.0"
+  gem "dm-migrations", "~> 1.1.0"
+  gem "dm-sqlite-adapter", "~> 1.1.0"
   require "dm-core"
   require "dm-migrations"
 rescue LoadError
